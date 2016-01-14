@@ -1,1 +1,16 @@
-{"Launchpad":"https://bugs.launchpad.net/bugs/1369944","Id":"1369944","Gerrit":"https://review.openstack.org/134093","IdGerrit":"134093","Files":["horizon/tables/base.py"],"Lines_Inseted":5,"Lines_Deleted":4,"CommitParent":"a2c1e79cde5065d53d74ffd1d6113f8032b5310f","Classification":"Bug","KeywordsTitle":"truncated","Description":"not wrapped, truncated","KeywordsCommit":"truncate, exception, can test, ","Comments":"It's a bug report"}
+{
+  "Launchpad": "https://bugs.launchpad.net/bugs/1369944",
+  "Id": "1369944",
+  "Gerrit": "https://review.openstack.org/134093",
+  "IdGerrit": "134093",
+  "IdCommit": "a0c2ecf3fac8be680a74556ff789179f7e781dcc",
+  "Files": "horizon/tables/base.py",
+  "Lines_Inseted": "5",
+  "Lines_Deleted": "4",
+  "CommitParent": "a2c1e79cde5065d53d74ffd1d6113f8032b5310f",
+  "Classification": "Bug",
+  "KeywordsTitle": "truncated",
+  "Description": "not wrapped, truncated",
+  "KeywordsCommit": "truncate, exception, can test, ",
+  "Comments": "It's a bug report"
+}
