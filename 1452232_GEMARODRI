@@ -2,7 +2,7 @@
   "Launchpad": "https://bugs.launchpad.net/bugs/1452232",
   "Id": "180486",
   "Gerrit": "https://review.openstack.org/#/c/180486/",
-  "IdGerrit": "",
+  "IdGerrit": "180486",
   "IdCommit": "8aa02932c3efff3a2f17db474d0f024dbfc38bda",
   "Files": "openstack_auth/plugin/base.py,openstack_auth/tests/tests.py",
   "Lines_Inseted": "1",
@@ -11,6 +11,6 @@
   "Classification": "Bug",
   "KeywordsTitle": "not defined, error",
   "Description": "error, not defined, missed",
-  "KeywordsCommit": "",
+  "KeywordsCommit": "Add missing",
   "Comments": "It's a bug report"
 }
